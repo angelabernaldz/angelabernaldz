@@ -9,6 +9,10 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/angelaber
 
 Thank you for visiting my profile! :blush:
 
+### First projects
+
+[Pixelart](https://stitch-pixel.surge.sh)
+
 <!---
 angelabernaldz/angelabernaldz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
